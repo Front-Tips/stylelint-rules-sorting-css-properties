@@ -1,0 +1,10 @@
+.selector {
+  position: absolute;
+  top: 20px;
+
+  display: flex;
+  width: 100%;
+
+  color: red;
+  font-size: 16px;
+}

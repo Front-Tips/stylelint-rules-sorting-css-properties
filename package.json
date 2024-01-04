@@ -1,0 +1,15 @@
+{
+  "name": "css-properties-order-stylelint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "stylelint": "^16.1.0",
+    "stylelint-order": "^6.0.4"
+  }
+}
